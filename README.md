@@ -112,6 +112,7 @@ Use Case Diagrams visually represent the interactions between users (actors) and
 - Process Payments
 - View Booking History
 
+![Use Case Diagram for Booking System](./alx-booking-uc.png)
 
 
 
